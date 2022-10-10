@@ -2,6 +2,8 @@
 title: About Me
 ---
 
+{{< img src="profile.jpg" width="200" alt="Profile" center="center" >}}
+
 I am a junior at Stanford Online High School who spends almost (no, all) of his
 free time doing whatever programming project interests him at the time. Mostly,
 this has either been in web development or hacking Linux systems (either

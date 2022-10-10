@@ -1,3 +1,20 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'I2Unix-Web'
+
+[[params.nav]]
+name = "I2Unix"
+url = "/"
+
+[[params.nav]]
+name = "About"
+url = "/about"
+
+[[params.nav]]
+name = "Syllabus"
+url = "/syllabus"
+
+[[params.nav]]
+name = "Materials"
+url = "/material"
+

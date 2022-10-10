@@ -1,5 +1,5 @@
 <nav>
-  <a class="current" href="/"> I2Unix </a>
-  <a class="current" href="/about"> About Me </a>
-  <a class="current" href="/material"> Material </a>
+  {{range .Site.Params.nav}}
+  <a class="current" href="{{.url}}"> {{.name}} </a>
+  {{end}}
 </nav>
