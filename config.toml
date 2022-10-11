@@ -1,6 +1,6 @@
 baseURL = 'https://i2unix.sh/'
 languageCode = 'en-us'
-title = 'I2Unix-Web'
+title = 'I2Unix'
 
 [[params.nav]]
 name = "I2Unix"
