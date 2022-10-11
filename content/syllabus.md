@@ -56,7 +56,6 @@ toc: true
 
 - schoolwork manager
 - dotfile post-installation script
-- Generate a markdown file with title, name
 
 ## Unit 4 - Markup languages
 
