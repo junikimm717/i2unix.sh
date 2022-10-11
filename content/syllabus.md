@@ -63,6 +63,8 @@ toc: true
 - Using markdown and pandoc
 - The basics of LaTeX
 
+- Understanding how build tools are used and how to exploit them (make)
+
 ---
 
 ## Unit 5 - Networks and Regexes
@@ -144,3 +146,5 @@ following or something completely different:
 - Compiled Languages (Go, Rust)
 - BaaS (e.g. Firebase)
 - Mobile Development
+
+If you are interested in doing a collaborative project, just let me know.
