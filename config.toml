@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://i2unix.sh/'
 languageCode = 'en-us'
 title = 'I2Unix-Web'
 
