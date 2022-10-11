@@ -36,7 +36,16 @@ toc: true
 
 ---
 
-## Unit 3 - Shell Scripting
+## Unit 3 - Markup languages
+
+- Using markdown and pandoc
+- The basics of LaTeX
+
+- Understanding how build tools are used and how to exploit them (make)
+
+---
+
+## Unit 4 - Shell Scripting
 
 1. local and environmental variables
 
@@ -56,13 +65,6 @@ toc: true
 
 - schoolwork manager
 - dotfile post-installation script
-
-## Unit 4 - Markup languages
-
-- Using markdown and pandoc
-- The basics of LaTeX
-
-- Understanding how build tools are used and how to exploit them (make)
 
 ---
 
@@ -141,6 +143,7 @@ exploration of their own. Depending on their interests, they may do one of the
 following or something completely different:
 
 - Venture into FREEBSD (Jails, different OS philosophies)
+- DIY Distros with window managers (Arch, Gentoo,Vanilla Debian)
 - Functional Programming (haskell, erlang, elixir)
 - Compiled Languages (Go, Rust)
 - BaaS (e.g. Firebase)

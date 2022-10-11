@@ -15,6 +15,10 @@ name = "Syllabus"
 url = "/syllabus"
 
 [[params.nav]]
+name = "Projects"
+url = "/projects"
+
+[[params.nav]]
 name = "Materials"
 url = "/material"
 
