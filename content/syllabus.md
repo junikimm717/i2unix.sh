@@ -24,10 +24,11 @@ toc: true
 
 ## Unit 2 - Essential Programs
 
-1. Working with vim and neovim, the command-line text editor. (navigation, editing, some basic configuration)
+1. Working with vim and neovim, the command-line text editor. (navigation,
+   editing, some basic configuration)
 2. Working with git (creating, pushing, branching), gitignores
-3. Using your local package manager (and a meta-commentary on how they
-   generally work).
+3. Using your local package manager (and a meta-commentary on how they generally
+   work).
 
 ### Projects
 
@@ -68,6 +69,25 @@ toc: true
 
 ---
 
+## Unit 4.1 - DIY
+
+This is the unit where everything from before is put together. From the safety
+of a VM, you will figure out how to install Arch Linux (no, archinstall is not
+permitted). Reminder: It's supposed to be insanely difficult the first time
+around.
+
+This is the traditional rite of passage for any hacker. No course on Unix would
+be complete without it.
+
+1. Filesystems (formatting, mounting)
+2. system-essential packages
+3. Bootloaders
+4. Users, Groups, and Permissions
+5. Xorg
+6. (Bonus) The AUR
+
+---
+
 ## Unit 5 - Networks and Regexes
 
 1. CLI HTTP Clients (curl, wget) and HTTP status codes
@@ -84,12 +104,13 @@ toc: true
 ## Unit 6 - Python Clients
 
 1. Syntax, functions
-2. The batteries-included stdlib (json, os, pathlib, argparse, re, filesystem API)
+2. The batteries-included stdlib (json, os, pathlib, argparse, re, filesystem
+   API)
 3. Using poetry and pip
 4. Using external libraries (toml, requests, urllib3, numpy/scipy/matplotlib)
 5. Scraping Libraries
 
-### Projects (Difficulty Going Up!)
+### Projects
 
 - Do a zipf's law word analysis on an (appropriate) site of your choosing
 - Scrape basketball-reference.com to get a catalog of player salaries (and plot
@@ -104,9 +125,6 @@ toc: true
 Unit 7 is a project-based unit, where you'll be making some useful web
 application with some amount of variation. You'll do at least one, but it is
 **possible** to do all of them in sequence.
-
-This may be one of the most difficult and head-scratching experiences of your
-life. It may take anywhere between 3 and 6 months.
 
 ### Unit 7A - Fullstack Web
 
