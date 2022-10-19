@@ -1,7 +1,7 @@
 ---
-title: 'School Server'
+title: 'School Server (7B)'
 date: 2022-10-11T20:03:45-04:00
-unit: 7B
+unit: 7
 ---
 
 You may have noticed that your repository is getting hefty and unwieldy to work
