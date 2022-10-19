@@ -1,5 +1,5 @@
 ---
-title: "School Server"
+title: 'School Server'
 date: 2022-10-11T20:03:45-04:00
 unit: 7B
 ---
