@@ -7,10 +7,6 @@ name = "I2Unix"
 url = "/"
 
 [[params.nav]]
-name = "About"
-url = "/about"
-
-[[params.nav]]
 name = "Syllabus"
 url = "/syllabus"
 
